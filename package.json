@@ -31,7 +31,7 @@
     "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
     "mongoose": "^5.7.5",
-    "mpath": "^0.6.0",
+    "mpath": "^0.8.4",
     "npm": "^6.14.6",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
